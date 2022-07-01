@@ -1,3 +1,5 @@
 Git (Version control system)
 jenkins (CI/CD)
 Docker (Containerization)
+Ansible (for contineous deployment and configuration management)
+jira(isssue tracking tool)
